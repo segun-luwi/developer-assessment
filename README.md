@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript repository.
+Doheney Backend Assessment built with [Nest](https://github.com/nestjs/nest) framework.
 
 ## Installation
 
